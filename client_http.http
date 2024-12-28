@@ -1,0 +1,26 @@
+curl -X POST \
+    -H 'Content-Type: application/json' \
+    -d '{"query":"Qué es la pastelería la palmera"}' \
+http://localhost:5000/ask
+
+
+###
+
+curl -X POST \
+    -H 'Content-Type: application/json' \
+    -d '{"query":"horario de atención"}' \
+http://localhost:5000/ask
+
+###
+
+curl -X POST \
+    -H 'Content-Type: application/json' \
+    -d '{"query":"Cuál es el horario de atención de la pastelería"}' \
+http://localhost:5000/ask
+
+###
+
+curl -X POST \
+    -H 'Content-Type: application/json' \
+    -d '{"query":"Qué productos tienes"}' \
+http://localhost:5000/ask
