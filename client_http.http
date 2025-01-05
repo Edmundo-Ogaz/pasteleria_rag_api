@@ -1,15 +1,40 @@
-curl -X POST \
-    -H 'Content-Type: application/json' \
-    -d '{"query":"Qué es la pastelería la palmera"}' \
-http://localhost:5000/ask
 
+curl http://localhost:5000//helth
 
 ###
 
 curl -X POST \
     -H 'Content-Type: application/json' \
-    -d '{"query":"horario de atención"}' \
-http://localhost:5000/ask
+    -d '{"query":"hola"}' \
+http://localhost:5000/ask-model
+
+###
+
+curl -X POST \
+    -H 'Content-Type: application/json' \
+    -d '{"query":"Qué es la pastelería la palmera"}' \
+http://localhost:5000/ask-model
+
+###
+
+curl -X POST \
+    -H 'Content-Type: application/json' \
+    -d '{"query":"Hablame de la pastelería"}' \
+http://localhost:5000/ask-model
+
+###
+
+curl -X POST \
+    -H 'Content-Type: application/json' \
+    -d '{"query":"Cuál es la dirección de la pastelería"}' \
+http://localhost:5000/ask-model
+
+###
+
+curl -X POST \
+    -H 'Content-Type: application/json' \
+    -d '{"query":"quiero saber la dirección de la pastelería"}' \
+http://localhost:5000/ask-model
 
 ###
 
@@ -22,5 +47,54 @@ http://localhost:5000/ask
 
 curl -X POST \
     -H 'Content-Type: application/json' \
+    -d '{"query":"Quiero devolver un producto"}' \
+http://localhost:5000/ask
+
+###
+
+curl -X POST \
+    -H 'Content-Type: application/json' \
+    -d '{"query":"Tiene productos light"}' \
+http://localhost:5000/ask
+
+###
+
+curl -X POST \
+    -H 'Content-Type: application/json' \
     -d '{"query":"Qué productos tienes"}' \
+http://localhost:5000/ask-model
+
+###
+
+curl -X POST \
+    -H 'Content-Type: application/json' \
+    -d '{"query":"me gustaría saber los procutos que tienes"}' \
+http://localhost:5000/ask-model
+
+###
+
+curl -X POST \
+    -H 'Content-Type: application/json' \
+    -d '{"query":"Qué tortas tienes"}' \
+http://localhost:5000/ask
+
+###
+
+curl -X POST \
+    -H 'Content-Type: application/json' \
+    -d '{"query":"cuánto cuesta la torta de turron mango"}' \
+http://localhost:5000/ask
+
+###
+
+curl -X POST \
+    -H 'Content-Type: application/json' \
+    -d '{"query":"cuánto cuesta la torta glamur"}' \
+http://localhost:5000/ask
+
+###
+
+curl -X POST \
+    -H 'Content-Type: application/json' \
+    -d '{"query":"qué porsiones tienes de la torta glamur"}' \
 http://localhost:5000/ask
