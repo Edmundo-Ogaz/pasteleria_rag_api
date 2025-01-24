@@ -1,7 +1,7 @@
 from flask import Flask, request, Response
 
 from langchain.vectorstores import Chroma
-from langchain_community.embeddings.fastembed import FastEmbedEmbeddings
+from langchain_community.embeddings import JinaEmbeddings
 from langchain.chains.combine_documents import create_stuff_documents_chain
 from langchain.chains import create_history_aware_retriever, create_retrieval_chain
 
@@ -137,7 +137,9 @@ def load_product(session_id: str) -> str:
 
     return product
 
-embeddings = FastEmbedEmbeddings(model_name="jinaai/jina-embeddings-v2-base-es")
+embeddings = JinaEmbeddings( 
+    jina_api_key=os.environ.get("JINA_API_KEY"), model_name="jina-embeddings-v2-base-es" 
+)
 
 # - Para preguntas sin información en el contexto, responde: 'Lo siento, no puedo responder esta pregunta con la información disponible. ¿Hay algo más en lo que pueda ayudarte?'
 prompt_history = ChatPromptTemplate.from_messages([
