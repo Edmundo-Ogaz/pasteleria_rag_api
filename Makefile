@@ -7,5 +7,20 @@ activate:
 deactivate:
 	deactivate
 
+requirement:
+	pip freeze > requirements.txt
+
+install:
+	pip install -r requirements.txt
+
 run:
 	python ./app.py
+
+nohup:
+	nohup python ./app.py
+
+ps:
+	ps -fe
+
+kill:
+	kill [PID]

@@ -1,12 +1,16 @@
+@host = https://pasteleria-rag-api.onrender.com
+@host = http://44.202.33.23:5000
+@host = http://localhost:5000
 
-curl http://localhost:5000//helth
+###
+curl {{host}}/helth
 
 ###
 
 curl -X POST \
     -H 'Content-Type: application/json' \
     -d '{"query":"hola"}' \
-http://localhost:5000/ask-model
+{{host}}/ask-model
 
 ###
 
@@ -41,7 +45,7 @@ http://localhost:5000/ask-model
 curl -X POST \
     -H 'Content-Type: application/json' \
     -d '{"query":"Cuál es el horario de atención de la pastelería"}' \
-http://localhost:5000/ask
+http://44.202.33.23:5000/ask
 
 ###
 
