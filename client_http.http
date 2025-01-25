@@ -1,104 +1,132 @@
 @host = https://pasteleria-rag-api.onrender.com
 @host = http://44.202.33.23:5000
-@host = http://localhost:5000
+@host = http://localhost:5001
 
 ###
-curl {{host}}/helth
+curl {{host}}/health
 
 ###
 
 curl -X POST \
     -H 'Content-Type: application/json' \
+    -H 'sessionId: {{$timestamp}}' \
     -d '{"query":"hola"}' \
+{{host}}/ask-model-history
+
+###
+
+curl -X POST \
+    -H 'Content-Type: application/json' \
+    -H 'sessionId: {{$timestamp}}' \
+    -d '{"query":"Qué es la pastelería la palmera"}' \
 {{host}}/ask-model
 
 ###
 
 curl -X POST \
     -H 'Content-Type: application/json' \
-    -d '{"query":"Qué es la pastelería la palmera"}' \
-http://localhost:5000/ask-model
-
-###
-
-curl -X POST \
-    -H 'Content-Type: application/json' \
+    -H 'sessionId: {{$timestamp}}' \
     -d '{"query":"Hablame de la pastelería"}' \
-http://localhost:5000/ask-model
+{{host}}/ask-model
 
 ###
 
 curl -X POST \
     -H 'Content-Type: application/json' \
+    -H 'sessionId: {{$timestamp}}' \
     -d '{"query":"Cuál es la dirección de la pastelería"}' \
-http://localhost:5000/ask-model
+{{host}}/ask-model
 
 ###
 
 curl -X POST \
     -H 'Content-Type: application/json' \
+    -H 'sessionId: {{$timestamp}}' \
     -d '{"query":"quiero saber la dirección de la pastelería"}' \
-http://localhost:5000/ask-model
+{{host}}/ask-model
 
 ###
 
 curl -X POST \
     -H 'Content-Type: application/json' \
+    -H 'sessionId: {{$timestamp}}' \
     -d '{"query":"Cuál es el horario de atención de la pastelería"}' \
-http://44.202.33.23:5000/ask
+{{host}}/ask
 
 ###
 
 curl -X POST \
     -H 'Content-Type: application/json' \
+    -H 'sessionId: {{$timestamp}}' \
     -d '{"query":"Quiero devolver un producto"}' \
-http://localhost:5000/ask
+{{host}}/ask
 
 ###
 
 curl -X POST \
     -H 'Content-Type: application/json' \
+    -H 'sessionId: {{$timestamp}}' \
     -d '{"query":"Tiene productos light"}' \
-http://localhost:5000/ask
+{{host}}/ask
 
 ###
 
 curl -X POST \
     -H 'Content-Type: application/json' \
+    -H 'sessionId: {{$timestamp}}' \
     -d '{"query":"Qué productos tienes"}' \
-http://localhost:5000/ask-model
+{{host}}/ask-model
 
 ###
 
 curl -X POST \
     -H 'Content-Type: application/json' \
+    -H 'sessionId: {{$timestamp}}' \
     -d '{"query":"me gustaría saber los procutos que tienes"}' \
-http://localhost:5000/ask-model
+{{host}}/ask-model
 
 ###
 
 curl -X POST \
     -H 'Content-Type: application/json' \
+    -H 'sessionId: {{$timestamp}}' \
     -d '{"query":"Qué tortas tienes"}' \
-http://localhost:5000/ask
+{{host}}/ask
 
 ###
 
 curl -X POST \
     -H 'Content-Type: application/json' \
+    -H 'sessionId: {{$timestamp}}' \
     -d '{"query":"cuánto cuesta la torta de turron mango"}' \
-http://localhost:5000/ask
+{{host}}/ask
 
 ###
 
 curl -X POST \
     -H 'Content-Type: application/json' \
+    -H 'sessionId: {{$timestamp}}' \
     -d '{"query":"cuánto cuesta la torta glamur"}' \
-http://localhost:5000/ask
+{{host}}/ask
 
 ###
 
 curl -X POST \
     -H 'Content-Type: application/json' \
+    -H 'sessionId: {{$timestamp}}' \
     -d '{"query":"qué porsiones tienes de la torta glamur"}' \
-http://localhost:5000/ask
+{{host}}/ask
+
+###
+curl -X POST \
+    -H 'Content-Type: application/json' \
+    -H 'sessionId: {{$timestamp}}' \
+    -d '{"query":"Le quedan tortas africana?"}' \
+{{host}}/ask-model
+
+###
+curl -X POST \
+    -H 'Content-Type: application/json' \
+    -H 'sessionId: {{$timestamp}}' \
+    -d '{"query":"cuáles son las sucursales"}' \
+{{host}}/ask-model

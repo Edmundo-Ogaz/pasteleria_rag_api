@@ -4,7 +4,7 @@ La Pastelería la Palmera es una empresa familiar con más de 25 años de tradic
 
 ## DIRECCIÓN
 
-La dirección de la Pastelería la Palmera es Uribe 431, Antofagasta.
+La dirección de la casa matriz de la Pastelería la Palmera es Uribe 431, Antofagasta. Y existe una sucursal en José Santos Ossa 2256, Antofagasta.
 
 ## HORARIO DE ATENCIÓN
 Nuestro horario de atención en sucursal es de lunes a sábado de  09:00 a 18:00 hrs. y nuestros despachos a domicilio desde las 12:00 hrs hasta las 20:00 hrs
@@ -378,7 +378,7 @@ Se pueden agregar mensajes personalizados
 Puede ser retirado en las sucursales de la pastelería La Palmera o se puede enviar a domicilio, con un cargo adicional de $3000 pesos.
 
 #### TORTA AFRICANA
-La TORTA AFRICANA es un delicioso pastel compuesto por BIZCOCHO DE CHOLATE, MANJAR Y CHOCOLATE GANACH. Está disponible en porciones de 20, 25, 30, 40 y 60 personas  y su precio varía entre $27.000 y $48.000. Es importante solicitarla con al menos 24 horas de anticipación.
+La TORTA AFRICANA es un delicioso pastel compuesto por BIZCOCHO DE CHOLATE, MANJAR Y CHOCOLATE GANACH. Está disponible en porciones de 20, 25, 30, 40, 50 y 60 personas  y su precio varía entre $27.000 y $48.000. Es importante solicitarla con al menos 24 horas de anticipación.
 
 Image: https://pastelerialapalmera.cl/wp-content/uploads/2020/06/torta_africana_pasteleria_la_palmera.jpg
 
