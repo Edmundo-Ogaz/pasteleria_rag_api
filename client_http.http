@@ -14,7 +14,13 @@ curl -X POST \
 {{host}}/ask-model-history
 
 ###
+curl -X POST \
+    -H 'Content-Type: application/json' \
+    -H 'sessionId: {{$timestamp}}' \
+    -d '{"query":"qué productos tienen"}' \
+{{host}}/ask-model-history
 
+###
 curl -X POST \
     -H 'Content-Type: application/json' \
     -H 'sessionId: {{$timestamp}}' \

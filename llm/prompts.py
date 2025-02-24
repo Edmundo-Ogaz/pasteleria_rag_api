@@ -47,7 +47,7 @@ prompt_history_retrieval = ChatPromptTemplate.from_messages(
         ("system", """
             Dado un historial de chat y la ultima pregunta del usuario que podría hacer referencia al contexto del historial del chat, 
             formula un pregunta tomando en cuenta el ultimo mensaje del usuario (puedes apoyarte de los mensaje anteriores si la ultima pregunta hace referencia a estos).
-            No respondas la pregunta, simplemente reformula si es necesario y de lo contrario devuelvela como está.
+            No respondas la pregunta, simplemente reformula si es necesario y de lo contrario devuélvela como está.
             Chat:
         """),
         MessagesPlaceholder("chat_history"),
@@ -77,4 +77,21 @@ prompt_ask_product = PromptTemplate.from_template("""
     [INST] Mensaje a analizar: {input}
     Respuesta: [/INST]
 """
+)
+
+prompt_history_retrieval2 = ChatPromptTemplate.from_messages(
+    [
+        ("system", """
+            Eres un asistente especializado en reformular preguntas para mejorar la recuperación de información en un sistema de retrieval.
+            1. Entrada: Se te proporcionará un historial de conversación y la última pregunta del usuario.
+            2. Objetivo: Reformula la última pregunta del usuario si es necesario para que sea clara y contextualizada, asegurando que tenga sentido por sí sola sin perder el significado original.
+            3. Condiciones:
+            - Si la última pregunta es ambigua o depende del contexto anterior, intégrala con la información relevante del historial.
+            - Si la pregunta ya es clara y completa, devuélvela sin cambios.
+            4. Salida esperada: Devuelve únicamente la pregunta reformulada o la original si no requiere cambios. No agregues explicaciones ni respondas la pregunta.
+            Chat:
+        """),
+        MessagesPlaceholder("chat_history"),
+        ("human", "{input}"),
+    ]
 )

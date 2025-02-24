@@ -45,18 +45,18 @@ class Session:
 
         chat_history = ChatMessageHistory()
             
-        if llm.is_product(message):
-            self.__history_products[session_id] = message
-            chat_history.add_message({"role": "human", "content": message})
-            self.__query.save_product(session_id, message)
-        else:
-            if session_id in self.__history_products:
-                text = self.__history_products[session_id]
-                chat_history.add_message({"role": "human", "content": text})
-            else:
-                product = self.__query.load_product(session_id)
-                if product:
-                    self.__history_products[session_id] = product
+        # if llm.is_product(message):
+        #     self.__history_products[session_id] = message
+        #     chat_history.add_message({"role": "human", "content": message})
+        #     self.__query.save_product(session_id, message)
+        # else:
+        #     if session_id in self.__history_products:
+        #         text = self.__history_products[session_id]
+        #         chat_history.add_message({"role": "human", "content": text})
+        #     else:
+        #         product = self.__query.load_product(session_id)
+        #         if product:
+        #             self.__history_products[session_id] = product
 
         if session_id not in self.__history_messages:
             print("get_session_chat_history")

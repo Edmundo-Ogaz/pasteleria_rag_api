@@ -7,6 +7,9 @@ class ChromaDB:
             persist_directory='db', embedding_function=embeddings, collection_name="mi_coleccion",
         )
 
+    def get_similarity_whith_scores(self, query: str):
+        return self.__db.similarity_search_with_relevance_scores( query, k=3, score_threshold=0.0 )
+
     def get_similarity(self, query: str):
         response = ''
 
