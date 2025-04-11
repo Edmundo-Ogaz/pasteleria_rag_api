@@ -24,3 +24,9 @@ ps:
 
 kill:
 	kill [PID]
+
+test:
+	PYTHONPATH=. pytest test/test_jina.py
+
+test-metod:
+	PYTHONPATH=. pytest test/test_jina.py::test_get_similarity_whith_scores

@@ -10,14 +10,14 @@ class ChromaDB:
     def get_similarity_whith_scores(self, query: str):
         return self.__db.similarity_search_with_relevance_scores( query, k=3, score_threshold=0.0 )
 
-    def get_similarity(self, query: str):
-        response = ''
+    def get_similarity(self, query: str) -> list:
+        response = []
 
-        result = self.__db.similarity_search_with_relevance_scores( query, k=3, score_threshold=0.0 )
+        result = self.__db.similarity_search_with_relevance_scores( query, k=5, score_threshold=0.0 )
         for doc, i in result:
             print(doc.page_content, i)
-            response += f'{doc.page_content}\n'
             print("---")
+            response.append(doc.page_content)
 
         return response
     

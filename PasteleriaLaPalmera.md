@@ -811,58 +811,67 @@ Los postres que tenemos son:
 - CHEESCAKE DE MARACUYA
 
 #### PIE LIMON
-Name: PIE LIMON
-Price: $14.000
+El PIE LIMON es un delicioso postre compuesto por MASA DE FABRICACION CASERA, LECHE CONDENSADA, JUGO DE LIMON Y MERENGUE y su precio es $14.000. Es importante solicitarla con al menos 24 horas de anticipación.
+
 Image: https://pastelerialapalmera.cl/wp-content/uploads/2021/04/torta_pie_de_limon_pasteleria_la_palmera.jpg
-Description: MASA DE FABRICACION CASERA, LECHE CONDENSADA, JUGO DE LIMON Y MERENGUE
+
+Puede ser retirado en las sucursales de la pastelería La Palmera o se puede enviar a domicilio, con un cargo adicional de $3000 pesos.
 
 #### MOUSE DE FRUTILLA
-Name: MOUSE DE FRUTILLA
-Price: $16.000
+El MOUSE DE FRUTILLA es un delicioso postre compuesto por MOUSE DE FRUTILLA, CREMA CHANTILLY, YOGURT, CREMFIL DE MANGO BIZCOCHO y su precio es $16.000. Es importante solicitarla con al menos 24 horas de anticipación.
+
 Image: https://pastelerialapalmera.cl/wp-content/uploads/2021/12/mouse_de_frutillla_pasteleria_la_palmera.jpg
-Description: MOUSE DE FRUTILLA, CREMA CHANTILLY, YOGURT, CREMFIL DE MANGO BIZCOCHO
+
+Puede ser retirado en las sucursales de la pastelería La Palmera o se puede enviar a domicilio, con un cargo adicional de $3000 pesos.
 
 #### MOUSE DE MANGO
-Name: MOUSE DE MANGO
-Price: $16.000
+El MOUSE DE MANGO es un delicioso postre compuesto por MOUSE DE MANGO, CREMA CHANTILLY, YOGURT, PULAPA DE MANGO Y BIZCOCHO y su precio es $16.000. Es importante solicitarla con al menos 24 horas de anticipación.
+
 Image: https://pastelerialapalmera.cl/wp-content/uploads/2021/12/mouse_de_mango_pasteleria_la_palmera.jpg
-Description: MOUSE DE MANGO, CREMA CHANTILLY, YOGURT, PULAPA DE MANGO Y BIZCOCHO
+
+Puede ser retirado en las sucursales de la pastelería La Palmera o se puede enviar a domicilio, con un cargo adicional de $3000 pesos.
 
 #### MOUSE DE MARACUYA
-Name: MOUSE DE MARACUYA
-Price: $16.000
+El MOUSE DE MARACUYA es un delicioso postre compuesto por MOUSE DE MARACUYA, CREMA CHANTILLY, YOGURT, PULPA DE MARACUYA Y BIZCOCHO y su precio es $16.000. Es importante solicitarla con al menos 24 horas de anticipación.
+
 Image: https://pastelerialapalmera.cl/wp-content/uploads/2021/12/mouse_de_maracuya_pasteleria_la_palmera.jpg
-Description: MOUSE DE MARACUYA, CREMA CHANTILLY, YOGURT, PULPA DE MARACUYA Y BIZCOCHO, Porciones, 20, 25, 30, 40, 50, 60
+
+Puede ser retirado en las sucursales de la pastelería La Palmera o se puede enviar a domicilio, con un cargo adicional de $3000 pesos.
 
 #### CHEESCAKE DE FRAMBUESA
-Name: CHEESCAKE DE FRAMBUESA
-Price: $16.000
+El CHEESCAKE DE FRAMBUESA es un delicioso postre compuesto por CHEESCAKE DE FRAMBUESA, CREMA CHANTILLY, YOGURT, PULPA DE FRAMBUESA, BIZCOCHO y su precio es $16.000. Es importante solicitarla con al menos 24 horas de anticipación.
+
 Image: https://pastelerialapalmera.cl/wp-content/uploads/2021/12/cheescake_frambuesa_pasteleria_la_palmera.jpg
-Description: CHEESCAKE DE FRAMBUESA, CREMA CHANTILLY, YOGURT, PULPA DE FRAMBUESA, BIZCOCHO
+
+Puede ser retirado en las sucursales de la pastelería La Palmera o se puede enviar a domicilio, con un cargo adicional de $3000 pesos.
 
 #### TARTALETA DE FRUTAS
-Name: TARTALETA DE FRUTAS
-Price: $14.000
+La TARTALETA DE FRUTAS es un delicioso postre compuesto por MASA DE FABRICACION CASERA, MIX DE FRUTAS, CREMA PASTELERA Y BRILLO HARMONY y su precio es $14.000. Es importante solicitarla con al menos 24 horas de anticipación.
+
 Image: https://pastelerialapalmera.cl/wp-content/uploads/2021/04/tartaleta_de_frutas_pasteleria_la_palmera.jpg
-Description: MASA DE FABRICACION CASERA, MIX DE FRUTAS, CREMA PASTELERA Y BRILLO HARMONY
+
+Puede ser retirado en las sucursales de la pastelería La Palmera o se puede enviar a domicilio, con un cargo adicional de $3000 pesos.
 
 #### CHEESCAKE DE MANGO
-Name: CHEESCAKE DE MANGO
-Price: $16.000
+El CHEESCAKE DE MANGO es un delicioso postre compuesto por CHEESCAKE DE MANGO, CREMA CHANTILLY, YOGURT, PULPA DE MANGO, GALLETA DE CHAMPGNE BIZCOCHO y su precio es $16.000. Es importante solicitarla con al menos 24 horas de anticipación.
+
 Image: https://pastelerialapalmera.cl/wp-content/uploads/2021/04/cheescake_de_mango_pasteleria_la_palmera.jpg
-Description: CHEESCAKE DE MANGO, CREMA CHANTILLY, YOGURT, PULPA DE MANGO, GALLETA DE CHAMPGNE BIZCOCHO
+
+Puede ser retirado en las sucursales de la pastelería La Palmera o se puede enviar a domicilio, con un cargo adicional de $3000 pesos.
 
 #### BROWNIE BANANA GRANDE
-Name: BROWNIE BANANA GRANDE
-Price: $14.000
+El BROWNIE BANANA GRANDE es un delicioso postre compuesto por PLATANO, QUEQUE BROWNIE CON NUECES, CHOCOLATE GANACH, CREMA CHANTILLY, MANJAR, SALSA DE CHOCOLATE y su precio es $14.000. Es importante solicitarla con al menos 24 horas de anticipación.
+
 Image: https://pastelerialapalmera.cl/wp-content/uploads/2021/04/brownie_banana_.jpg
-Description: PLATANO, QUEQUE BROWNIE CON NUECES, CHOCOLATE GANACH, CREMA CHANTILLY, MANJAR, SALSA DE CHOCOLATE
+
+Puede ser retirado en las sucursales de la pastelería La Palmera o se puede enviar a domicilio, con un cargo adicional de $3000 pesos.
 
 #### CHEESCAKE DE MARACUYA
-Name: CHEESCAKE DE MARACUYA
-Price: $16.000
+El CHEESCAKE DE MARACUYA es un delicioso postre compuesto por CHEESCAKE DE MARACUYA, CREMA CHANTILLY, YOGURT, PULPA DE MARACUYA, GALLETA DE CHAMPAGNE, BIZCOCHO y su precio es $16.000. Es importante solicitarla con al menos 24 horas de anticipación.
+
 Image: https://pastelerialapalmera.cl/wp-content/uploads/2021/02/cheescake_de_maracuya_pasteleria_la_palmera.jpg
-Description: 
+
+Puede ser retirado en las sucursales de la pastelería La Palmera o se puede enviar a domicilio, con un cargo adicional de $3000 pesos. 
 
 ### KUTCHENS
 Los kutchent que tenemos son:
@@ -871,22 +880,25 @@ Los kutchent que tenemos son:
 - KUTCHEN RICOTA MARACUYA
 
 #### KUTCHEN MANZANA
-Name: KUTCHEN MANZANA
-Price: $14.000
+El KUTCHEN MANZANA es un delicioso kutchen compuesto por MASA DE FABRICACION CASERA, CREMA PASTELERA, BRILLO HARMONY Y MANZANA y su precio es $14.000. Es importante solicitarla con al menos 24 horas de anticipación.
+
 Image: https://pastelerialapalmera.cl/wp-content/uploads/2021/04/kutchen_manzana_pasteleria_la_palmera.jpg
-Description: MASA DE FABRICACION CASERA, CREMA PASTELERA, BRILLO HARMONY Y MANZANA
+
+Puede ser retirado en las sucursales de la pastelería La Palmera o se puede enviar a domicilio, con un cargo adicional de $3000 pesos.
 
 #### KUTCHEN DURAZNO
-Name: KUTCHEN DURAZNO
-Price: $14.000
+El KUTCHEN DURAZNO es un delicioso kutchen compuesto por MASA DE FABRICACION CASERA, CREMA PASTELERA, BRILLO HARMONY Y DURAZNOS y su precio es $14.000. Es importante solicitarla con al menos 24 horas de anticipación.
+
 Image: https://pastelerialapalmera.cl/wp-content/uploads/2021/04/kutchen_durazno.jpg
-Description: MASA DE FABRICACION CASERA, CREMA PASTELERA, BRILLO HARMONY Y DURAZNOS
+
+Puede ser retirado en las sucursales de la pastelería La Palmera o se puede enviar a domicilio, con un cargo adicional de $3000 pesos.
 
 #### KUTCHEN RICOTA MARACUYA
-Name: KUTCHEN RICOTA MARACUYA
-Price: $17.000
+El KUTCHEN RICOTA MARACUYA es un delicioso kutchen compuesto por Ricota, crema y maracuya y su precio es $17.000. Es importante solicitarla con al menos 24 horas de anticipación.
+
 Image: https://pastelerialapalmera.cl/wp-content/uploads/2021/02/torta_ricota_pasteleria_la_palmera.jpg
-Description: Ricota, crema y maracuya
+
+Puede ser retirado en las sucursales de la pastelería La Palmera o se puede enviar a domicilio, con un cargo adicional de $3000 pesos.
 
 ### COCKTELS
 Los cocktels que tenemos son:
@@ -908,190 +920,222 @@ Los cocktels que tenemos son:
 - CANAPES FINOS
 
 #### BOCADOS DE SALCHICHA
-Name: BOCADOS DE SALCHICHA
-Price: $12.150 – $39.500
-Image: https://pastelerialapalmera.cl/wp-content/uploads/2024/03/BOCADOS-DE-SALCHICHA-2-scaled.jpg
-Description: Cantidad, 100, 25, 50
+El BOCADOS DE SALCHICHA es un delicioso cocktel. Está disponible en porciones de 100, 25 y 50 personas  y su precio varía entre $12.150 y $39.500. Es importante solicitarla con al menos 24 horas de anticipación.
 
-##### Prices
-Description price BOCADOS DE SALCHICHA
-- 25 unit price $12.150
-- 50 unit price $21.250
-- 100 unit price $39.500
+Image: https://pastelerialapalmera.cl/wp-content/uploads/2024/03/BOCADOS-DE-SALCHICHA-2-scaled.jpg
+
+Precios:
+| Porciones | Precio |
+|-----------|--------|
+| 25        | $12.150 |
+| 50        | $21.250 |
+| 100       | $39.500 |
+
+Puede ser retirado en las sucursales de la pastelería La Palmera o se puede enviar a domicilio, con un cargo adicional de $3000 pesos.
 
 #### TAPADITOS DE POLLO
-Name: TAPADITOS DE POLLO
-Price: $13.400 – $44.500
-Image: https://pastelerialapalmera.cl/wp-content/uploads/2024/03/TAPADITOS-2.jpg
-Description: Cantidad, 100, 25, 50
+El TAPADITOS DE POLLO es un delicioso cocktel. Está disponible en porciones de 100, 25 y 50 personas  y su precio varía entre $13.400 y $44.500. Es importante solicitarla con al menos 24 horas de anticipación.
 
-##### Prices
-Description price TAPADITOS DE POLLO
-- 25 unit price $13.400
-- 50 unit price $23.750
-- 100 unit price $44.500
+Image: https://pastelerialapalmera.cl/wp-content/uploads/2024/03/TAPADITOS-2.jpg
+
+Precios:
+| Porciones | Precio |
+|-----------|--------|
+| 25        | $13.400 |
+| 50        | $23.750 |
+| 100       | $44.500 |
+
+Puede ser retirado en las sucursales de la pastelería La Palmera o se puede enviar a domicilio, con un cargo adicional de $3000 pesos.
 
 #### TAPADITOS DE CARNE
-Name: TAPADITOS DE CARNE
-Price: $15.250 – $54.000
-Image: https://pastelerialapalmera.cl/wp-content/uploads/2024/03/TAPADITOS-2.jpg
-Description: Cantidad, 100, 25, 50
+El TAPADITOS DE CARNE es un delicioso cocktel. Está disponible en porciones de 100, 25 y 50 personas  y su precio varía entre $15.250 y $54.000. Es importante solicitarla con al menos 24 horas de anticipación.
 
-##### Prices
-Description price TAPADITOS DE CARNE
-- 25 unit price $15.250
-- 50 unit price $28.500
-- 100 unit price $54.000
+Image: https://pastelerialapalmera.cl/wp-content/uploads/2024/03/TAPADITOS-2.jpg
+
+Precios:
+| Porciones | Precio |
+|-----------|--------|
+| 25        | $15.250 |
+| 50        | $28.500 |
+| 100       | $54.000 |
+
+Puede ser retirado en las sucursales de la pastelería La Palmera o se puede enviar a domicilio, con un cargo adicional de $3000 pesos.
 
 #### MINI BARROS LUCOS
-Name: MINI BARROS LUCOS
-Price: $13.650 – $40.500
-Image: https://pastelerialapalmera.cl/wp-content/uploads/2024/03/BARROS-LUCO-2-scaled.jpg
-Description: Cantidad, 100, 25, 50
+El MINI BARROS LUCOS es un delicioso cocktel. Está disponible en porciones de 100, 25 y 50 personas  y su precio varía entre $13.650 y $40.500. Es importante solicitarla con al menos 24 horas de anticipación.
 
-##### Prices
-Description price MINI BARROS LUCOS
-- 25 unit price $13.650
-- 50 unit price $23.500
-- 100 unit price $40.500
+Image: https://pastelerialapalmera.cl/wp-content/uploads/2024/03/BARROS-LUCO-2-scaled.jpg
+
+Precios:
+| Porciones | Precio |
+|-----------|--------|
+| 25        | $13.650 |
+| 50        | $23.500 |
+| 100       | $40.500 |
+
+Puede ser retirado en las sucursales de la pastelería La Palmera o se puede enviar a domicilio, con un cargo adicional de $3000 pesos.
 
 #### TRILOGIA DE SANGUCHITOS
-Name: TRILOGIA DE SANGUCHITOS
-Price: $9.750 – $30.000
-Image: https://pastelerialapalmera.cl/wp-content/uploads/2024/03/TRILOGIA-SANGUCHITOS-3-scaled.jpg
-Description: Cantidad, 100, 25, 50
+El TRILOGIA DE SANGUCHITOS es un delicioso cocktel. Está disponible en porciones de 100, 25 y 50 personas  y su precio varía entre $9.750 y $30.000. Es importante solicitarla con al menos 24 horas de anticipación.
 
-##### Prices
-Description price TRILOGIA DE SANGUCHITOS
-- 50 unit price $16.500
-- 100 unit price $30.000
-- 25 unit price $9.750
+Image: https://pastelerialapalmera.cl/wp-content/uploads/2024/03/TRILOGIA-SANGUCHITOS-3-scaled.jpg
+
+Precios:
+| Porciones | Precio |
+|-----------|--------|
+| 50        | $16.500 |
+| 100       | $30.000 |
+| 25        | $9.750 |
+
+Puede ser retirado en las sucursales de la pastelería La Palmera o se puede enviar a domicilio, con un cargo adicional de $3000 pesos.
 
 #### EMPANADITAS ESPINACA CHAMPIÑON
-Name: EMPANADITAS ESPINACA CHAMPIÑON
-Price: $14.150 – $47.600
-Image: https://pastelerialapalmera.cl/wp-content/uploads/2024/03/EMPANADAS-2-scaled.jpg
-Description: Cantidad, 100, 25, 50
+El EMPANADITAS ESPINACA CHAMPIÑON es un delicioso cocktel. Está disponible en porciones de 100, 25 y 50 personas  y su precio varía entre $14.150 y $47.600. Es importante solicitarla con al menos 24 horas de anticipación.
 
-##### Prices
-Description price EMPANADITAS ESPINACA CHAMPIÑON
-- 25 unit price $14.150
-- 50 unit price $25.300
-- 100 unit price $47.600
+Image: https://pastelerialapalmera.cl/wp-content/uploads/2024/03/EMPANADAS-2-scaled.jpg
+
+Precios:
+| Porciones | Precio |
+|-----------|--------|
+| 25        | $14.150 |
+| 50        | $25.300 |
+| 100       | $47.600 |
+
+Puede ser retirado en las sucursales de la pastelería La Palmera o se puede enviar a domicilio, con un cargo adicional de $3000 pesos.
 
 #### EMPANADITAS NAPOLITANA
-Name: EMPANADITAS NAPOLITANA
-Price: $13.250 – $44.000
-Image: https://pastelerialapalmera.cl/wp-content/uploads/2024/03/EMPANADAS-2-scaled.jpg
-Description: Cantidad, 100, 25, 50
+El EMPANADITAS NAPOLITANA es un delicioso cocktel. Está disponible en porciones de 100, 25 y 50 personas  y su precio varía entre $13.250 y $44.000. Es importante solicitarla con al menos 24 horas de anticipación.
 
-##### Prices
-Description price EMPANADITAS NAPOLITANA
-- 25 unit price $13.250
-- 50 unit price $23.500
-- 100 unit price $44.000
+Image: https://pastelerialapalmera.cl/wp-content/uploads/2024/03/EMPANADAS-2-scaled.jpg
+
+Precios:
+| Porciones | Precio |
+|-----------|--------|
+| 25        | $13.250 |
+| 50        | $23.500 |
+| 100       | $44.000 |
+
+Puede ser retirado en las sucursales de la pastelería La Palmera o se puede enviar a domicilio, con un cargo adicional de $3000 pesos.
 
 #### PINCHOS DE CHARCUTERIA
-Name: PINCHOS DE CHARCUTERIA
-Price: $8.000 – $29.000
-Image: https://pastelerialapalmera.cl/wp-content/uploads/2024/03/PINCHOS-DE-CHARCUTERIA.jpg
-Description: Cantidad, 100, 12, 25, 50
+El PINCHOS DE CHARCUTERIA es un delicioso cocktel. Está disponible en porciones de 100, 12, 25 y 50 personas  y su precio varía entre $8.000 y $29.000. Es importante solicitarla con al menos 24 horas de anticipación.
 
-##### Prices
-Description price PINCHOS DE CHARCUTERIA
-- 25 unit price $15.000
-- 50 unit price $29.000
-- 12 unit price $8.000
+Image: https://pastelerialapalmera.cl/wp-content/uploads/2024/03/PINCHOS-DE-CHARCUTERIA.jpg
+
+Precios:
+| Porciones | Precio |
+|-----------|--------|
+| 25        | $15.000 |
+| 50        | $29.000 |
+| 12        | $8.000 |
+
+Puede ser retirado en las sucursales de la pastelería La Palmera o se puede enviar a domicilio, con un cargo adicional de $3000 pesos.
 
 #### PINCHOS DE CAMARON
-Name: PINCHOS DE CAMARON
-Price: $20.500 – $73.000
-Image: https://pastelerialapalmera.cl/wp-content/uploads/2024/03/PINCHOS-CAMARON.jpg
-Description: Cantidad, 100, 12, 25, 50
+El PINCHOS DE CAMARON es un delicioso cocktel. Está disponible en porciones de 100, 12, 25 y 50 personas  y su precio varía entre $20.500 y $73.000. Es importante solicitarla con al menos 24 horas de anticipación.
 
-##### Prices
-Description price PINCHOS DE CAMARON
-- 12 unit price $20.500
-- 25 unit price $38.000
-- 50 unit price $73.000
+Image: https://pastelerialapalmera.cl/wp-content/uploads/2024/03/PINCHOS-CAMARON.jpg
+
+Precios:
+| Porciones | Precio |
+|-----------|--------|
+| 12        | $20.500 |
+| 25        | $38.000 |
+| 50        | $73.000 |
+
+Puede ser retirado en las sucursales de la pastelería La Palmera o se puede enviar a domicilio, con un cargo adicional de $3000 pesos.
 
 #### MINI PIZZA NAPOLITANA
-Name: MINI PIZZA NAPOLITANA
-Price: $10.750 – $38.000
+El MINI PIZZA NAPOLITANA es un delicioso cocktel. Está disponible en porciones de 100, 25 y 50 personas  y su precio varía entre $10.750 y $38.000. Es importante solicitarla con al menos 24 horas de anticipación.
+
 Image: https://pastelerialapalmera.cl/wp-content/uploads/2024/03/PIZZAS-2.jpg
-Description: Cantidad, 100, 25, 50
 
-##### Prices
-Description price MINI PIZZA NAPOLITANA
-- 25 unit price $10.750
-- 50 unit price $20.500
-- 100 unit price $38.000
+Precios:
+| Porciones | Precio |
+|-----------|--------|
+| 25        | $10.750 |
+| 50        | $20.500 |
+| 100       | $38.000 |
 
-#### PASTELILLOS FINOS (FOTO REFERENCIAL)
-Name: PASTELILLOS FINOS (FOTO REFERENCIAL)
-Price: $15.000 – $29.000
+Puede ser retirado en las sucursales de la pastelería La Palmera o se puede enviar a domicilio, con un cargo adicional de $3000 pesos.
+
+#### PASTELILLOS FINOS
+El PASTELILLOS FINOS es un delicioso cocktel. Está disponible en porciones de 100 y 50 personas  y su precio varía entre $15.000 y $29.000. Es importante solicitarla con al menos 24 horas de anticipación.
+
 Image: https://pastelerialapalmera.cl/wp-content/uploads/2022/04/1-1-scaled.jpg
-Description: Cantidad, 100, 50
 
-##### Prices
-Description price PASTELILLOS FINOS (FOTO REFERENCIAL)
-- 50 unit price $15.000
-- 100 unit price $29.000
+Precios:
+| Porciones | Precio |
+|-----------|--------|
+| 50        | $15.000 |
+| 100       | $29.000 |
+
+Puede ser retirado en las sucursales de la pastelería La Palmera o se puede enviar a domicilio, con un cargo adicional de $3000 pesos.
 
 #### MINI PIZZA PEPERONNI
-Name: MINI PIZZA PEPERONNI
-Price: $10.750 – $38.000
-Image: https://pastelerialapalmera.cl/wp-content/uploads/2024/03/PIZZAS-2.jpg
-Description: Cantidad, 100, 25, 50
+El MINI PIZZA PEPERONNI es un delicioso cocktel. Está disponible en porciones de 100, 25 y 50 personas  y su precio varía entre $10.750 y $38.000. Es importante solicitarla con al menos 24 horas de anticipación.
 
-##### Prices
-Description price MINI PIZZA PEPERONNI
-- 25 unit price $10.750
-- 50 unit price $20.500
-- 100 unit price $38.000
+Image: https://pastelerialapalmera.cl/wp-content/uploads/2024/03/PIZZAS-2.jpg
+
+Precios:
+| Porciones | Precio |
+|-----------|--------|
+| 25        | $10.750 |
+| 50        | $20.500 |
+| 100       | $38.000 |
+
+Puede ser retirado en las sucursales de la pastelería La Palmera o se puede enviar a domicilio, con un cargo adicional de $3000 pesos.
 
 #### PASTELILLOS CORRIENTES
-Name: PASTELILLOS CORRIENTES
-Price: $14.000 – $27.000
-Image: https://pastelerialapalmera.cl/wp-content/uploads/2022/04/13-scaled.jpg
-Description: Cantidad, 100, 50
+El PASTELILLOS CORRIENTES es un delicioso cocktel. Está disponible en porciones de 100 y 50 personas  y su precio varía entre $14.000 y $27.000. Es importante solicitarla con al menos 24 horas de anticipación.
 
-##### Prices
-Description price PASTELILLOS CORRIENTES
-- 50 unit price $14.000
-- 100 unit price $27.000
+Image: https://pastelerialapalmera.cl/wp-content/uploads/2022/04/13-scaled.jpg
+
+Precios:
+| Porciones | Precio |
+|-----------|--------|
+| 50        | $14.000 |
+| 100       | $27.000 |
+
+Puede ser retirado en las sucursales de la pastelería La Palmera o se puede enviar a domicilio, con un cargo adicional de $3000 pesos.
 
 #### MINI HAMBURQUESAS DE CARNE
-Name: MINI HAMBURQUESAS DE CARNE
-Price: $18.000 – $62.500
-Image: https://pastelerialapalmera.cl/wp-content/uploads/2024/03/HAMBURGUESAS.jpg
-Description: HAMBURGUESA, QUESO CHEDDAR, MAYONESA, PEPINILLO, Cantidad, 100, 25, 50
+El MINI HAMBURQUESAS DE CARNE es un delicioso cocktel compuesto por HAMBURGUESA, QUESO CHEDDAR, MAYONESA, PEPINILLO. Está disponible en porciones de 100, 25 y 50 personas  y su precio varía entre $18.000 y $62.500. Es importante solicitarla con al menos 24 horas de anticipación.
 
-##### Prices
-Description price MINI HAMBURQUESAS DE CARNE
-- 25 unit price $18.000
-- 50 unit price $32.750
-- 100 unit price $62.500
+Image: https://pastelerialapalmera.cl/wp-content/uploads/2024/03/HAMBURGUESAS.jpg
+
+Precios:
+| Porciones | Precio |
+|-----------|--------|
+| 25        | $18.000 |
+| 50        | $32.750 |
+| 100       | $62.500 |
+
+Puede ser retirado en las sucursales de la pastelería La Palmera o se puede enviar a domicilio, con un cargo adicional de $3000 pesos.
 
 #### EMPANADITAS DE QUESO
-Name: EMPANADITAS DE QUESO
-Price: $13.250 – $44.000
-Image: 
-Description:  Cantidad 100, 25, 50
+El EMPANADITAS DE QUESO es un delicioso cocktel compuesto por  . Está disponible en porciones de 100, 25 y 50 personas  y su precio varía entre $13.250 y $44.000. Es importante solicitarla con al menos 24 horas de anticipación.
 
-##### Prices
-Description price EMPANADITAS DE QUESO
-- 100 unit price $44.000
-- 25 unit price $13.250
-- 50 unit price $23.500
+Image: 
+
+Precios:
+| Porciones | Precio |
+|-----------|--------|
+| 25        | $13.250 |
+| 50        | $23.500 |
+| 100       | $44.000 |
+
+Puede ser retirado en las sucursales de la pastelería La Palmera o se puede enviar a domicilio, con un cargo adicional de $3000 pesos.
 
 #### CANAPES FINOS
-Name: CANAPES FINOS
-Price: $21.250 – $39.950
-Image: https://pastelerialapalmera.cl/wp-content/uploads/2024/03/CANAPE-FINO-2-scaled.jpg
-Description: Cantidad, 100, 50
+El CANAPES FINOS es un delicioso cocktel. Está disponible en porciones de 100 y 50 personas  y su precio varía entre $21.250 y $39.950. Es importante solicitarla con al menos 24 horas de anticipación.
 
-##### Prices
-Description price CANAPES FINOS
-- 50 unit price $21.250
-- 100 unit price $39.950
+Image: https://pastelerialapalmera.cl/wp-content/uploads/2024/03/CANAPE-FINO-2-scaled.jpg
+
+Precios:
+| Porciones | Precio |
+|-----------|--------|
+| 50        | $21.250 |
+| 100       | $39.950 |
+
+Puede ser retirado en las sucursales de la pastelería La Palmera o se puede enviar a domicilio, con un cargo adicional de $3000 pesos.

@@ -3,6 +3,7 @@ from flask import Flask, request
 from llm.chroma import chroma
 from llm.groq import llm
 from repository.session import session
+from llm.jina import reranker
 
 import os
 from dotenv import load_dotenv
@@ -22,7 +23,10 @@ def ask():
     print(f"query: {query}")
     print(f"sessionId: {session_id}")
 
-    return {"respuesta": chroma.get_similarity(query)}
+    retriever = chroma.get_similarity(query)
+    rerank = reranker.rerank(retriever, query)
+
+    return {"respuesta": rerank}
 
 @app.route("/ask-model", methods=["POST"]) 
 def ask_model():
@@ -32,7 +36,10 @@ def ask_model():
     print(f"query: {query}")
     print(f"session_id: {session_id}")
 
-    return {"respuesta": llm.invoke(query)}
+    response = llm.invoke(query)
+    print(f"response: {response}")
+    
+    return {"respuesta": response}
 
 @app.route("/ask-model-history", methods=["POST"]) 
 def ask_model_history():

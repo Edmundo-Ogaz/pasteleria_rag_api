@@ -73,7 +73,7 @@ curl -X POST \
     -H 'Content-Type: application/json' \
     -H 'sessionId: {{$timestamp}}' \
     -d '{"query":"Tiene productos light"}' \
-{{host}}/ask
+{{host}}/ask-model
 
 ###
 
@@ -89,7 +89,7 @@ curl -X POST \
     -H 'Content-Type: application/json' \
     -H 'sessionId: {{$timestamp}}' \
     -d '{"query":"me gustaría saber los procutos que tienes"}' \
-{{host}}/ask-model
+{{host}}/ask
 
 ###
 
@@ -136,3 +136,24 @@ curl -X POST \
     -H 'sessionId: {{$timestamp}}' \
     -d '{"query":"cuáles son las sucursales"}' \
 {{host}}/ask-model
+
+###
+curl -X POST \
+    -H 'Content-Type: application/json' \
+    -H 'sessionId: {{$timestamp}}' \
+    -d '{"query":"qué tortas de chocolate tienes"}' \
+{{host}}/ask
+
+###
+curl -X POST \
+    -H 'Content-Type: application/json' \
+    -H 'sessionId: {{$timestamp}}' \
+    -d '{"query":"qué productos de cocktel tienes"}' \
+{{host}}/ask-model
+
+###
+curl -X POST \
+    -H 'Content-Type: application/json' \
+    -H 'sessionId: {{$timestamp}}' \
+    -d '{"query":"¿qué productos de cocktail tienen?"}' \
+{{host}}/ask
