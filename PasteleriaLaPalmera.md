@@ -82,11 +82,9 @@ Los productos light de la Pastelería la Palmera son opciones más bajas en calo
 ## PRODUCTOS
 La Pastelería La Palmera tiene los siguientes productos para su venta:
   - Tortas
-  - Productos de cotelería
+  - Coctelería
   - Kutchen
-  - Cheesecake
-  - Pie
-  - Tartaleta
+  - Postres
 
 ### Tiempo de Anticipación
 Los productos se realizan con al menos 24 horas de anticipación. La entrega se puede realizar en las sucursales o despachar a domicilio con un cargo adicional de #3000.
@@ -378,7 +376,7 @@ Se pueden agregar mensajes personalizados
 Puede ser retirado en las sucursales de la pastelería La Palmera o se puede enviar a domicilio, con un cargo adicional de $3000 pesos.
 
 #### TORTA AFRICANA
-La TORTA AFRICANA es un delicioso pastel compuesto por BIZCOCHO DE CHOLATE, MANJAR Y CHOCOLATE GANACH. Está disponible en porciones de 20, 25, 30, 40, 50 y 60 personas  y su precio varía entre $27.000 y $48.000. Es importante solicitarla con al menos 24 horas de anticipación.
+La TORTA AFRICANA es un delicioso pastel compuesto por BIZCOCHO DE CHOLATE, MANJAR Y CHOCOLATE GANACH. Está disponible en porciones de 20, 25, 30, 40, 50 y 60 personas y su precio varía entre $27.000 y $48.000. Es importante solicitarla con al menos 24 horas de anticipación.
 
 Image: https://pastelerialapalmera.cl/wp-content/uploads/2020/06/torta_africana_pasteleria_la_palmera.jpg
 
@@ -900,8 +898,8 @@ Image: https://pastelerialapalmera.cl/wp-content/uploads/2021/02/torta_ricota_pa
 
 Puede ser retirado en las sucursales de la pastelería La Palmera o se puede enviar a domicilio, con un cargo adicional de $3000 pesos.
 
-### COCKTELS
-Los cocktels que tenemos son:
+### COCKTAILS
+Los cocktails que tenemos son:
 - BOCADOS DE SALCHICHA
 - TAPADITOS DE POLLO
 - TAPADITOS DE CARNE
@@ -920,7 +918,7 @@ Los cocktels que tenemos son:
 - CANAPES FINOS
 
 #### BOCADOS DE SALCHICHA
-El BOCADOS DE SALCHICHA es un delicioso cocktel. Está disponible en porciones de 100, 25 y 50 personas  y su precio varía entre $12.150 y $39.500. Es importante solicitarla con al menos 24 horas de anticipación.
+El BOCADOS DE SALCHICHA es un delicioso cocktail. Está disponible en porciones de 100, 25 y 50 personas  y su precio varía entre $12.150 y $39.500. Es importante solicitarla con al menos 24 horas de anticipación.
 
 Image: https://pastelerialapalmera.cl/wp-content/uploads/2024/03/BOCADOS-DE-SALCHICHA-2-scaled.jpg
 
@@ -934,7 +932,7 @@ Precios:
 Puede ser retirado en las sucursales de la pastelería La Palmera o se puede enviar a domicilio, con un cargo adicional de $3000 pesos.
 
 #### TAPADITOS DE POLLO
-El TAPADITOS DE POLLO es un delicioso cocktel. Está disponible en porciones de 100, 25 y 50 personas  y su precio varía entre $13.400 y $44.500. Es importante solicitarla con al menos 24 horas de anticipación.
+El TAPADITOS DE POLLO es un delicioso cocktail. Está disponible en porciones de 100, 25 y 50 personas  y su precio varía entre $13.400 y $44.500. Es importante solicitarla con al menos 24 horas de anticipación.
 
 Image: https://pastelerialapalmera.cl/wp-content/uploads/2024/03/TAPADITOS-2.jpg
 
@@ -948,7 +946,7 @@ Precios:
 Puede ser retirado en las sucursales de la pastelería La Palmera o se puede enviar a domicilio, con un cargo adicional de $3000 pesos.
 
 #### TAPADITOS DE CARNE
-El TAPADITOS DE CARNE es un delicioso cocktel. Está disponible en porciones de 100, 25 y 50 personas  y su precio varía entre $15.250 y $54.000. Es importante solicitarla con al menos 24 horas de anticipación.
+El TAPADITOS DE CARNE es un delicioso cocktail. Está disponible en porciones de 100, 25 y 50 personas  y su precio varía entre $15.250 y $54.000. Es importante solicitarla con al menos 24 horas de anticipación.
 
 Image: https://pastelerialapalmera.cl/wp-content/uploads/2024/03/TAPADITOS-2.jpg
 
@@ -962,7 +960,7 @@ Precios:
 Puede ser retirado en las sucursales de la pastelería La Palmera o se puede enviar a domicilio, con un cargo adicional de $3000 pesos.
 
 #### MINI BARROS LUCOS
-El MINI BARROS LUCOS es un delicioso cocktel. Está disponible en porciones de 100, 25 y 50 personas  y su precio varía entre $13.650 y $40.500. Es importante solicitarla con al menos 24 horas de anticipación.
+El MINI BARROS LUCOS es un delicioso cocktail. Está disponible en porciones de 100, 25 y 50 personas  y su precio varía entre $13.650 y $40.500. Es importante solicitarla con al menos 24 horas de anticipación.
 
 Image: https://pastelerialapalmera.cl/wp-content/uploads/2024/03/BARROS-LUCO-2-scaled.jpg
 
@@ -976,7 +974,7 @@ Precios:
 Puede ser retirado en las sucursales de la pastelería La Palmera o se puede enviar a domicilio, con un cargo adicional de $3000 pesos.
 
 #### TRILOGIA DE SANGUCHITOS
-El TRILOGIA DE SANGUCHITOS es un delicioso cocktel. Está disponible en porciones de 100, 25 y 50 personas  y su precio varía entre $9.750 y $30.000. Es importante solicitarla con al menos 24 horas de anticipación.
+El TRILOGIA DE SANGUCHITOS es un delicioso cocktail. Está disponible en porciones de 100, 25 y 50 personas  y su precio varía entre $9.750 y $30.000. Es importante solicitarla con al menos 24 horas de anticipación.
 
 Image: https://pastelerialapalmera.cl/wp-content/uploads/2024/03/TRILOGIA-SANGUCHITOS-3-scaled.jpg
 
@@ -990,7 +988,7 @@ Precios:
 Puede ser retirado en las sucursales de la pastelería La Palmera o se puede enviar a domicilio, con un cargo adicional de $3000 pesos.
 
 #### EMPANADITAS ESPINACA CHAMPIÑON
-El EMPANADITAS ESPINACA CHAMPIÑON es un delicioso cocktel. Está disponible en porciones de 100, 25 y 50 personas  y su precio varía entre $14.150 y $47.600. Es importante solicitarla con al menos 24 horas de anticipación.
+El EMPANADITAS ESPINACA CHAMPIÑON es un delicioso cocktail. Está disponible en porciones de 100, 25 y 50 personas  y su precio varía entre $14.150 y $47.600. Es importante solicitarla con al menos 24 horas de anticipación.
 
 Image: https://pastelerialapalmera.cl/wp-content/uploads/2024/03/EMPANADAS-2-scaled.jpg
 
@@ -1004,7 +1002,7 @@ Precios:
 Puede ser retirado en las sucursales de la pastelería La Palmera o se puede enviar a domicilio, con un cargo adicional de $3000 pesos.
 
 #### EMPANADITAS NAPOLITANA
-El EMPANADITAS NAPOLITANA es un delicioso cocktel. Está disponible en porciones de 100, 25 y 50 personas  y su precio varía entre $13.250 y $44.000. Es importante solicitarla con al menos 24 horas de anticipación.
+El EMPANADITAS NAPOLITANA es un delicioso cocktail. Está disponible en porciones de 100, 25 y 50 personas  y su precio varía entre $13.250 y $44.000. Es importante solicitarla con al menos 24 horas de anticipación.
 
 Image: https://pastelerialapalmera.cl/wp-content/uploads/2024/03/EMPANADAS-2-scaled.jpg
 
@@ -1018,7 +1016,7 @@ Precios:
 Puede ser retirado en las sucursales de la pastelería La Palmera o se puede enviar a domicilio, con un cargo adicional de $3000 pesos.
 
 #### PINCHOS DE CHARCUTERIA
-El PINCHOS DE CHARCUTERIA es un delicioso cocktel. Está disponible en porciones de 100, 12, 25 y 50 personas  y su precio varía entre $8.000 y $29.000. Es importante solicitarla con al menos 24 horas de anticipación.
+El PINCHOS DE CHARCUTERIA es un delicioso cocktail. Está disponible en porciones de 100, 12, 25 y 50 personas  y su precio varía entre $8.000 y $29.000. Es importante solicitarla con al menos 24 horas de anticipación.
 
 Image: https://pastelerialapalmera.cl/wp-content/uploads/2024/03/PINCHOS-DE-CHARCUTERIA.jpg
 
@@ -1032,7 +1030,7 @@ Precios:
 Puede ser retirado en las sucursales de la pastelería La Palmera o se puede enviar a domicilio, con un cargo adicional de $3000 pesos.
 
 #### PINCHOS DE CAMARON
-El PINCHOS DE CAMARON es un delicioso cocktel. Está disponible en porciones de 100, 12, 25 y 50 personas  y su precio varía entre $20.500 y $73.000. Es importante solicitarla con al menos 24 horas de anticipación.
+El PINCHOS DE CAMARON es un delicioso cocktail. Está disponible en porciones de 100, 12, 25 y 50 personas  y su precio varía entre $20.500 y $73.000. Es importante solicitarla con al menos 24 horas de anticipación.
 
 Image: https://pastelerialapalmera.cl/wp-content/uploads/2024/03/PINCHOS-CAMARON.jpg
 
@@ -1046,7 +1044,7 @@ Precios:
 Puede ser retirado en las sucursales de la pastelería La Palmera o se puede enviar a domicilio, con un cargo adicional de $3000 pesos.
 
 #### MINI PIZZA NAPOLITANA
-El MINI PIZZA NAPOLITANA es un delicioso cocktel. Está disponible en porciones de 100, 25 y 50 personas  y su precio varía entre $10.750 y $38.000. Es importante solicitarla con al menos 24 horas de anticipación.
+El MINI PIZZA NAPOLITANA es un delicioso cocktail. Está disponible en porciones de 100, 25 y 50 personas  y su precio varía entre $10.750 y $38.000. Es importante solicitarla con al menos 24 horas de anticipación.
 
 Image: https://pastelerialapalmera.cl/wp-content/uploads/2024/03/PIZZAS-2.jpg
 
@@ -1060,7 +1058,7 @@ Precios:
 Puede ser retirado en las sucursales de la pastelería La Palmera o se puede enviar a domicilio, con un cargo adicional de $3000 pesos.
 
 #### PASTELILLOS FINOS
-El PASTELILLOS FINOS es un delicioso cocktel. Está disponible en porciones de 100 y 50 personas  y su precio varía entre $15.000 y $29.000. Es importante solicitarla con al menos 24 horas de anticipación.
+El PASTELILLOS FINOS es un delicioso cocktail. Está disponible en porciones de 100 y 50 personas  y su precio varía entre $15.000 y $29.000. Es importante solicitarla con al menos 24 horas de anticipación.
 
 Image: https://pastelerialapalmera.cl/wp-content/uploads/2022/04/1-1-scaled.jpg
 
@@ -1073,7 +1071,7 @@ Precios:
 Puede ser retirado en las sucursales de la pastelería La Palmera o se puede enviar a domicilio, con un cargo adicional de $3000 pesos.
 
 #### MINI PIZZA PEPERONNI
-El MINI PIZZA PEPERONNI es un delicioso cocktel. Está disponible en porciones de 100, 25 y 50 personas  y su precio varía entre $10.750 y $38.000. Es importante solicitarla con al menos 24 horas de anticipación.
+El MINI PIZZA PEPERONNI es un delicioso cocktail. Está disponible en porciones de 100, 25 y 50 personas  y su precio varía entre $10.750 y $38.000. Es importante solicitarla con al menos 24 horas de anticipación.
 
 Image: https://pastelerialapalmera.cl/wp-content/uploads/2024/03/PIZZAS-2.jpg
 
@@ -1087,7 +1085,7 @@ Precios:
 Puede ser retirado en las sucursales de la pastelería La Palmera o se puede enviar a domicilio, con un cargo adicional de $3000 pesos.
 
 #### PASTELILLOS CORRIENTES
-El PASTELILLOS CORRIENTES es un delicioso cocktel. Está disponible en porciones de 100 y 50 personas  y su precio varía entre $14.000 y $27.000. Es importante solicitarla con al menos 24 horas de anticipación.
+El PASTELILLOS CORRIENTES es un delicioso cocktail. Está disponible en porciones de 100 y 50 personas  y su precio varía entre $14.000 y $27.000. Es importante solicitarla con al menos 24 horas de anticipación.
 
 Image: https://pastelerialapalmera.cl/wp-content/uploads/2022/04/13-scaled.jpg
 
@@ -1100,7 +1098,7 @@ Precios:
 Puede ser retirado en las sucursales de la pastelería La Palmera o se puede enviar a domicilio, con un cargo adicional de $3000 pesos.
 
 #### MINI HAMBURQUESAS DE CARNE
-El MINI HAMBURQUESAS DE CARNE es un delicioso cocktel compuesto por HAMBURGUESA, QUESO CHEDDAR, MAYONESA, PEPINILLO. Está disponible en porciones de 100, 25 y 50 personas  y su precio varía entre $18.000 y $62.500. Es importante solicitarla con al menos 24 horas de anticipación.
+El MINI HAMBURQUESAS DE CARNE es un delicioso cocktail compuesto por HAMBURGUESA, QUESO CHEDDAR, MAYONESA, PEPINILLO. Está disponible en porciones de 100, 25 y 50 personas  y su precio varía entre $18.000 y $62.500. Es importante solicitarla con al menos 24 horas de anticipación.
 
 Image: https://pastelerialapalmera.cl/wp-content/uploads/2024/03/HAMBURGUESAS.jpg
 
@@ -1114,7 +1112,7 @@ Precios:
 Puede ser retirado en las sucursales de la pastelería La Palmera o se puede enviar a domicilio, con un cargo adicional de $3000 pesos.
 
 #### EMPANADITAS DE QUESO
-El EMPANADITAS DE QUESO es un delicioso cocktel compuesto por  . Está disponible en porciones de 100, 25 y 50 personas  y su precio varía entre $13.250 y $44.000. Es importante solicitarla con al menos 24 horas de anticipación.
+El EMPANADITAS DE QUESO es un delicioso cocktail compuesto por  . Está disponible en porciones de 100, 25 y 50 personas  y su precio varía entre $13.250 y $44.000. Es importante solicitarla con al menos 24 horas de anticipación.
 
 Image: 
 
@@ -1128,7 +1126,7 @@ Precios:
 Puede ser retirado en las sucursales de la pastelería La Palmera o se puede enviar a domicilio, con un cargo adicional de $3000 pesos.
 
 #### CANAPES FINOS
-El CANAPES FINOS es un delicioso cocktel. Está disponible en porciones de 100 y 50 personas  y su precio varía entre $21.250 y $39.950. Es importante solicitarla con al menos 24 horas de anticipación.
+El CANAPES FINOS es un delicioso cocktail. Está disponible en porciones de 100 y 50 personas  y su precio varía entre $21.250 y $39.950. Es importante solicitarla con al menos 24 horas de anticipación.
 
 Image: https://pastelerialapalmera.cl/wp-content/uploads/2024/03/CANAPE-FINO-2-scaled.jpg
 

@@ -1,6 +1,6 @@
-@host = https://pasteleria-rag-api.onrender.com
 @host = http://44.202.33.23:5000
 @host = http://localhost:5001
+@host = https://pasteleria-rag-chat.onrender.com
 
 ###
 curl {{host}}/health
@@ -155,5 +155,26 @@ curl -X POST \
 curl -X POST \
     -H 'Content-Type: application/json' \
     -H 'sessionId: {{$timestamp}}' \
+    -d '{"query":"¿qué productos de coctel tienen?"}' \
+{{host}}/ask
+
+###
+curl -X POST \
+    -H 'Content-Type: application/json' \
+    -H 'sessionId: {{$timestamp}}' \
     -d '{"query":"¿qué productos de cocktail tienen?"}' \
+{{host}}/ask
+
+###
+curl -X POST \
+    -H 'Content-Type: application/json' \
+    -H 'sessionId: {{$timestamp}}' \
+    -d '{"query":"tiempo de preparación de tortas"}' \
+{{host}}/rerank
+
+###
+curl -X POST \
+    -H 'Content-Type: application/json' \
+    -H 'sessionId: {{$timestamp}}' \
+    -d '{"query":"tiempo de entrega de torta"}' \
 {{host}}/ask

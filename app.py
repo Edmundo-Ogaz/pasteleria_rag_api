@@ -3,7 +3,7 @@ from flask import Flask, request
 from llm.chroma import chroma
 from llm.groq import llm
 from repository.session import session
-from llm.jina import reranker
+from llm.jina import rerank_documents
 
 import os
 from dotenv import load_dotenv
@@ -22,9 +22,20 @@ def ask():
     session_id = request.headers.get("sessionId")
     print(f"query: {query}")
     print(f"sessionId: {session_id}")
+    documents = chroma.get_similarity(query)
+    return {"respuesta": "\n".join(documents)}
+
+@app.route("/rerank", methods=["POST"]) 
+def rerank():
+    json_content = request.json
+    query = str(json_content.get("query")).lower()
+    session_id = request.headers.get("sessionId")
+    print(f"query: {query}")
+    print(f"sessionId: {session_id}")
 
     retriever = chroma.get_similarity(query)
-    rerank = reranker.rerank(retriever, query)
+    # rerank = reranker.rerank(retriever, query)
+    rerank = rerank_documents(retriever, query)
 
     return {"respuesta": rerank}
 
