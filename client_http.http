@@ -1,6 +1,6 @@
 @host = http://44.202.33.23:5000
 @host = http://localhost:5001
-@host = https://pasteleria-rag-chat.onrender.com
+@host = https://pasteleria-rag-api.onrender.com
 
 ###
 curl {{host}}/health
