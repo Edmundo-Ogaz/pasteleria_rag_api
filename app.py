@@ -1,13 +1,15 @@
 from flask import Flask, request
 
+import os
+from dotenv import load_dotenv
+load_dotenv()
+
 from llm.chroma import chroma
 from llm.groq import llm
 from repository.session import session
 from llm.jina import rerank_documents
 
-import os
-from dotenv import load_dotenv
-load_dotenv()
+
 
 app = Flask(__name__)
 

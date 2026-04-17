@@ -1,4 +1,4 @@
-from langchain.vectorstores import Chroma
+from langchain_community.vectorstores import Chroma
 from llm.jina import embeddings
 
 class ChromaDB:
